@@ -1,0 +1,56 @@
+
+body{
+	background-image: url('C:/Users/KRISHANAN/Desktop/website/dull.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;	
+	opacity: 0.2px;
+}
+
+
+.contact-form{
+	margin-top:300px;
+	text-align:center;
+	margin:0 auto;
+	margin-left:auto;
+	margin-right:auto;
+	color:black;
+	font-weight: bold;
+	font-style:italic;
+	margin-bottom:300px;
+}
+.First-Name{
+	width:200px;
+}
+.Last-Name{
+	width:200px;
+}
+.contact-number{
+	width:200px;
+}
+.email-id{
+	width:200px;
+}
+.password{
+	width:200px;
+}
+.repassword{
+	width:200px;
+}
+button {
+	box-shadow: 3px 3px gray;
+	font-weight: bolder;
+	font-style:inherit;
+	background-color:pink;
+}
+button:active{
+	box-shadow: none;
+}
+button:hover{
+	background-color:red;
+	color:black;
+}
+.signup{
+	display:block;
+
+}

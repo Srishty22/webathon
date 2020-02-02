@@ -1,0 +1,28 @@
+*{
+
+	font-style:italic;
+}
+body{
+	background-image: url('C:/Users/KRISHANAN/Desktop/website/dull.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;	
+	opacity: 0.2px;
+}
+.span{
+	font-weight: bold;
+}
+.container h1{
+	width:20%;
+	color:black;
+	margin:0 auto;
+	text-align:center;
+	font-size:40px;
+}
+.container p{
+	color:black;
+	border-radius: 10px;
+	border-width: 2px;
+	border-color: gray;
+	font-size:25px;
+}

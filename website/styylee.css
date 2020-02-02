@@ -1,0 +1,38 @@
+*{
+	background-color:gray;
+}
+
+
+.contact-form{
+	text-align:center;
+	margin:0 auto;
+	margin-left:auto;
+	margin-right:auto;
+	color:darkblue;
+	font-weight: bold;
+	font-style:italic;
+}
+.username{
+	width:200px;
+}
+
+
+.password{
+	width:200px;
+}
+}
+button {
+	box-shadow: 3px 3px green;
+	font-weight: bolder;
+}
+button:active{
+	box-shadow: none;
+}
+button:hover{
+	color:green;
+}
+
+.btn-wrapper a{
+	display:block;
+	margin-bottom: 10px;
+}
